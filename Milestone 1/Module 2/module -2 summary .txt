@@ -1,0 +1,79 @@
+			Module - 2 (summary ---- CSS)
+		  video: 1,2,3,4,5,6,7,8,9,10 --------------- all
+
+1. CSS -- Cascading Style Sheet ( Cascading means pour somthing from upward)
+2. Live server open korar upai ------ VSCode e thakakalin  (Alt+L+O)  ----- ete reload deya lage na
+3. Styles:   1. Inline           2.  Embedded (means attached with ) Internal              3. External
+4. CSS unit jana----------------- W3 School theke
+
+5.  Embedded Internal style:
+	html file e likhbo------
+		<style>
+			p { //style-rule : style - value ...... ex:
+				color : red;}
+		</style>
+
+
+6. color, background-color, font-size, font-family, font-weight, text-align(center,left,right),
+7. id,class:
+	id ----------------- attribute like href, src
+		1. id=" hello"   ........... in style tag - #hello {........}
+class: <p class="cl1"   >
+	style tag e ----- .cl1 {........}
+
+universal selector  -------  *  :  for selecting all items which are commonly want to change
+	* { color: red;
+     	      background-color: blue;}
+
+8. same tag e same style dile alalda likhar dorkar nai ------------- id1,id2{ color: red;}
+
+9. span:
+	<p class="hello1"> Byeee <span id="sp1"> gooood</span></p>
+
+10. mixed selectors : 
+	id , class er nam gulai holo selector (class selector, id selector, element selector like p, li,ul....), eder moddhe property thake like color,size era , eder moddhe thake
+            eder value.
+	list er moddhe id/class ache tahole .... li.id1{color: red;}
+
+
+	---------------------------  id unique SO class is BETTER than id to use ---------------------------
+
+
+11. border, margin,paddings details 
+	border-radius: 50% dile eta circle hoye jabe
+
+12. Background image, background details
+
+
+13. ----------------------------------QUESTION------------------------------ What is CSS Box Model consist of?
+    Answer: In web-development the CSS box model refers to how the HTML elements are modeled in browser engines and 
+                  how the dimensions of those HTML elements are derived from CSS properties. It consists of --- 
+    					1. Content
+					2. Padding
+					3. Margin
+					4. Border
+					5. Height-width
+
+
+14. ------------------------Color-------------------------
+	hexa code, color name, decimal code of color thake
+
+15. text-alignment : text-center, text-left, text-right
+16. text-decoration: wavy, underline,overline,dotted,etc
+17. Background-position: 
+18. Block --- display,inline block etc
+
+
+
+19. CSS Comment  ------   /*..................*/
+20. HTML Comment  ------ <!- - -    - - ->
+20.  We can use multiple class name giving a space between the names.
+ like --- <p class="c1  c2"> Hello all </p>
+     -----    . c1  c2{ color: red;
+		     border: 10px;}
+
+
+
+
+		
+

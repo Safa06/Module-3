@@ -1,0 +1,64 @@
+#header{
+    height: 200px;
+    background-image:url('../second_css/img/5771517.jpg');
+    background-size: cover;
+    background-color: gray;
+    background-blend-mode: multiply;
+    text-decoration: underline wavy red;
+    color:white;
+}
+
+.id1{
+    color: black;
+    background-color: rgba(86, 86, 233, 0.447);
+    width:50%;
+    font-size: 15px;
+    height: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center/left/right;
+    font-weight: 10px;
+    border: 5px solid;
+    border-style: dashed;
+    border-color: green;
+    margin: 5px;
+    padding: 10px;
+}
+
+#id2{
+    color: white;
+    background-color: blueviolet;
+    width:50%;
+    font-size: 15px;
+    height: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: 10px;
+    border-color: black;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding-top: 10px;
+    border-radius: 50%;  /*circle hbe*/
+}
+
+#id3{
+    color: white;
+    background-color: blueviolet;
+    width:50%;
+    font-size: 15px;
+    height: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center/left/right;
+    font-weight: 10px;
+    padding: 10px 20px 30px 40px;
+    border-radius: 50px;
+}
+
+.bye{
+    color: black;
+    font-weight: bold;
+    margin: 0px;
+    border: 1px solid white;
+    height: 50px;
+    display: inline-block;
+    width: 100px;
+}

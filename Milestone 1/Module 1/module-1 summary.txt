@@ -1,0 +1,124 @@
+			                 Module -- 1:
+  	              (video -- 1,2,3,4, 5,6,7,8,9  ---summary---)
+
+1. <p></p> --- paragraph tag
+2. <b></b> --- bold tag
+3. <strong></strong> --- (semantic tag) make the text bold also but having meaning text
+4. <small></small> --- (semantic tag) make the text small
+5. <i></i> --- make the text italic
+6. vscode - view - word wrap --- text guli ke inline block er moddhe anbe
+7. <h1></h1>   ---> h2  ---> h3 ---> h4 ---> h5 ---> h6  ---  heading bujhai
+8.  Block element: 
+	h1,h2,h3,h4,h5,h6,p,........------ era block block kore thake
+
+9. Inline element: 
+	strong,bold,italic,small,........ ---- era same line e thakbe
+
+10. anchor  :  <a href="https://google.com"> link e jao </a>
+      ei  "href" mane -- attribute, ei attribute er link copy korte google er  
+      oi website/page e giye  (ctrl+l)  dibo. Ete https soho copy hoye jabe.
+     (eta current page e open hobe)
+
+11.  ei anchor er jonno new webpage / tab open korte chaile : <a href="..."   
+        target="_blank">.....</a>  otherwise normally eta oi current tab/browser ei open hobe
+
+12.  target="_parent"  ---
+        target="_child " ---
+        target="_top" ---
+        target="_self"  aro ache
+
+
+13. image:  complete tag , ending tag lage na , 
+            <img src="https://.....">
+      ---- html, img same folder e thakle image er nam diye dibo
+      ---- same folder na hole <img src="images/photo.jpg"> evabe hobe means
+           folder name ----> img name.
+      ---- <img src="images/photo/photo1.jpg" alt=" ">   ete alternative kono nam dilam image r
+
+
+14.  list : (unordered list)
+	<ul type="circle" / "square" /....>
+		<li> pen </li>
+                              <ul>
+(nested list)			<li>pen1</li>
+			<li>pen2</li>
+		<li> rubber </li>
+	</ul>
+
+
+(ordered list)
+	<ol type="1" / " A" / "a" / .....>
+		<li> hello </li>
+                         <li> hello2 </li>
+	</ol>
+
+
+
+15. div :
+	 <div>
+		<h3>......</h3>
+		<p>........</p>
+	</div>
+
+16.  Take user input:
+ 	----- eta empty tag , er closing nai
+            ----- <input type="text" / "password" / "number" / "checkbox"  / 
+		"date" / "file">
+            ----- <textarea name=" " id=" " cols="60" row=" "></textarea>
+
+17. <br>
+
+18. select tag:
+	<select name=" "  id=" ">
+		<option value="pizza"> option 1 </option>
+                        <option value="burger"> option 2 </option>
+	</select>
+
+
+19. button :
+	<button>Click</button>
+
+20. form:
+	<form>
+		<input type=" " placeholder=" ">
+		<input type="submit" value="submit">
+	</form>
+
+
+
+21. ! ----> enter / html:5 ----> enter
+       what is doctype html 5 ?
+	--- tells version of html
+
+
+22. HTML meaning ------
+       	Hyper : reference / link
+       	Text: data /information
+       	Markup: Predefined / marked
+       	Language: communication
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+
