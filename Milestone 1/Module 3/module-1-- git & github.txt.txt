@@ -1,0 +1,44 @@
+			Module -- 3
+		video ---- 1,2,3,4,5,6,7,8( summary)
+
+1. git scm (source code management) download
+2.github account open
+3. cmd theke github open ------
+	cmd -- cd .. -- cd folder_name -- cd file_name
+
+4.VS Code diye github open -------
+	je project niye kaj korbo take open korbo (project/file name and github file name same dibo, eta kora better)
+	VS Code e oi file k open korlam ----- terminal ---- git (likhe version check) --- 
+            powershell pashe open hocche kina seta dekhbo ----
+
+5.git hub e code entry: 
+--------------------------terminal e eshob likhbo--------------------
+echo "# coffee" >> README.md
+git init
+git add README.md
+git commit -m "ja iccha likhbo"
+git branch -M main
+git remote add origin https://github.com/Safa06/coffee.git
+git push -u origin main
+
+
+
+6. code barbar change hole ta push korte hobe-------------------
+
+VSCode e  new file/file e code likhbo then terminal e -------------egula likhbo
+git add .
+git commit -m "habijabi"
+git push
+then github e oi repo te giye reload korbo
+
+
+7. code e /github e push korar por kichu delete korte chaile------------
+	VSCode er pashe discard or delete korar arrow ache
+	then ota github thekeo delete hoye jabe
+
+8. powershell e na thakte chaile pashe gitbash e kaj korte pari. Baki sob kaj akiii.
+     git bash e kon branch e achi seta bole dey jeta valo hoi bujhte.
+
+
+
+	
